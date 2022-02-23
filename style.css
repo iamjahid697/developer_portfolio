@@ -51,5 +51,18 @@ h2{
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 5px;
-    box-shadow:10px 10px 40px;
+    box-shadow:10px 10px 40px gray ; 
+}
+#full-stack-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,yellow);
+    border-image-slice: 1;
+}
+#web-development-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
 }
